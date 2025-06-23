@@ -1,0 +1,7 @@
+JobBoard.Backend/bin/
+JobBoard.Backend/obj/
+jobboard.db
+JobBoard.Frontend/node_modules/
+dist/
+.DS_Store
+*.log
